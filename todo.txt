@@ -1,0 +1,11 @@
+x create a version of the algorithm that 
+  randomly assigns projects while satisfying all hard constraints 
+     x Each student get's a project from their preferences 
+     x Each student get's a unique project 
+x Create equals operator for Project Object
+x Give students actual names 
+x Create a text file filled with random names 
+x Write output data into a csv file 
+- Generate project and student data and add to csv
+- Read csv data as an input file 
+- Make git repo for project 
